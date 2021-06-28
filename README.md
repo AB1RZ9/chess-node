@@ -185,4 +185,7 @@ if the game ends, it'll log one of the following strings:
 - `<Colour_1> is in checkmate, <Colour_2> wins!`
 - `Stalemate`
 
+
+To launch this game on your bot, use <prefix>Chess challenge @person whom you want to play with.
+
 That's about it. Better docs comming soon, Hopefully. Now try it out. Have a great day!
